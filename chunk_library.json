@@ -1,0 +1,214 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "chunk": "aggressive",
+      "id": "DCX8B6Ky",
+      "variants": [
+        "aggressive",
+        "Aggressive"
+      ],
+      "meaning": "agressivo",
+      "obs": ""
+    },
+    {
+      "chunk": "and",
+      "id": "UZjqSZgq",
+      "variants": [
+        "and",
+        "And"
+      ],
+      "meaning": "e",
+      "obs": ""
+    },
+    {
+      "chunk": "big",
+      "id": "3k6uSPMJ",
+      "variants": [
+        "big",
+        "Big"
+      ],
+      "meaning": "grande",
+      "obs": ""
+    },
+    {
+      "chunk": "black",
+      "id": "U63SdotG",
+      "variants": [
+        "black",
+        "Black"
+      ],
+      "meaning": "preto",
+      "obs": ""
+    },
+    {
+      "chunk": "cat",
+      "id": "Otd6WFAD",
+      "variants": [
+        "cat",
+        "cats",
+        "Cat",
+        "Cats"
+      ],
+      "meaning": "gato",
+      "obs": ""
+    },
+    {
+      "chunk": "dog",
+      "id": "YCymympU",
+      "variants": [
+        "dog",
+        "dogs",
+        "Dog",
+        "Dogs"
+      ],
+      "meaning": "cachorro",
+      "obs": ""
+    },
+    {
+      "chunk": "elephant",
+      "id": "1ho0JdI2",
+      "variants": [
+        "elephant",
+        "elephants",
+        "Elephant",
+        "Elephants"
+      ],
+      "meaning": "elefante",
+      "obs": ""
+    },
+    {
+      "chunk": "giraffe",
+      "id": "y1Vl9cJK",
+      "variants": [
+        "giraffe",
+        "giraffes",
+        "Giraffe",
+        "Giraffes"
+      ],
+      "meaning": "girafa",
+      "obs": ""
+    },
+    {
+      "chunk": "intelligent",
+      "id": "xB5kwaiB",
+      "variants": [
+        "intelligent",
+        "Intelligent"
+      ],
+      "meaning": "inteligente",
+      "obs": ""
+    },
+    {
+      "chunk": "is",
+      "id": "PwAGzapr",
+      "variants": [
+        "is",
+        "Is"
+      ],
+      "meaning": "é / está",
+      "obs": "(conjugação do verbo to be = ser / estar)"
+    },
+    {
+      "chunk": "lion",
+      "id": "bp8bMU4A",
+      "variants": [
+        "lion",
+        "lions",
+        "Lion",
+        "Lions"
+      ],
+      "meaning": "leão",
+      "obs": ""
+    },
+    {
+      "chunk": "orange",
+      "id": "sqRT7GtG",
+      "variants": [
+        "orange",
+        "Orange"
+      ],
+      "meaning": "laranja",
+      "obs": "serve tanto para a cor quanto para a fruta"
+    },
+    {
+      "chunk": "small",
+      "id": "oZg5kX5K",
+      "variants": [
+        "small",
+        "Small"
+      ],
+      "meaning": "pequeno",
+      "obs": ""
+    },
+    {
+      "chunk": "tall",
+      "id": "2ow4XYFl",
+      "variants": [
+        "tall",
+        "Tall"
+      ],
+      "meaning": "alto",
+      "obs": ""
+    },
+    {
+      "chunk": "the",
+      "id": "etTo9um3",
+      "variants": [
+        "the",
+        "The"
+      ],
+      "meaning": "o / a / os /as",
+      "obs": "(artigo definido)"
+    },
+    {
+      "chunk": "tiger",
+      "id": "vmCWcLu4",
+      "variants": [
+        "tiger",
+        "tigers",
+        "Tiger",
+        "Tigers"
+      ],
+      "meaning": "tigre",
+      "obs": ""
+    },
+    {
+      "chunk": "to be",
+      "id": "KrdUaD3m",
+      "variants": [
+        "to be",
+        "be",
+        "being",
+        "been",
+        "Be",
+        "Being",
+        "Been"
+      ],
+      "meaning": "ser / estar",
+      "obs": "I am = eu sou/estou\nYou are = você é/está\nHe/She/It is = ele/ela/isso é/está\nWe are = nós somos/estamos\nYou are = vocês são/estão\nThey are = eles/elas são/estão"
+    },
+    {
+      "chunk": "white",
+      "id": "FkwLnTuY",
+      "variants": [
+        "white",
+        "White"
+      ],
+      "meaning": "branco",
+      "obs": ""
+    },
+    {
+      "chunk": "zebra",
+      "id": "WAxPWuva",
+      "variants": [
+        "zebra",
+        "zebras",
+        "Zebra",
+        "Zebras"
+      ],
+      "meaning": "zebra",
+      "obs": ""
+    }
+  ]
+}

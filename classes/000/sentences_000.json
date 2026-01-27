@@ -1,0 +1,80 @@
+{
+  "class": "000",
+  "sentences": [
+    {
+      "en": "The elephant is intelligent.",
+      "pt": "O elefante é inteligente.",
+      "hints": [
+        { "chunk": "the", "id": "etTo9um3", "gloss_pt": "o/a (artigo definido)" },
+        { "chunk": "elephant", "id": "1ho0JdI2", "gloss_pt": "elefante" },
+        { "chunk": "is", "id": "PwAGzapr", "gloss_pt": "é/está" },
+        { "chunk": "intelligent", "id": "xB5kwaiB", "gloss_pt": "inteligente" }
+      ]
+    },
+    {
+      "en": "The lion is aggressive.",
+      "pt": "O leão é agressivo.",
+      "hints": [
+        { "chunk": "the", "id": "etTo9um3", "gloss_pt": "o/a (artigo definido)" },
+        { "chunk": "lion", "id": "bp8bMU4A", "gloss_pt": "leão" },
+        { "chunk": "is", "id": "PwAGzapr", "gloss_pt": "é/está" },
+        { "chunk": "aggressive", "id": "DCX8B6Ky", "gloss_pt": "agressivo" }
+      ]
+    },
+    {
+      "en": "The giraffe is tall.",
+      "pt": "A girafa é alta.",
+      "hints": [
+        { "chunk": "the", "id": "etTo9um3", "gloss_pt": "o/a (artigo definido)" },
+        { "chunk": "giraffe", "id": "y1Vl9cJK", "gloss_pt": "girafa" },
+        { "chunk": "is", "id": "PwAGzapr", "gloss_pt": "é/está" },
+        { "chunk": "tall", "id": "2ow4XYFl", "gloss_pt": "alto/alta" }
+      ]
+    },
+    {
+      "en": "The dog is big.",
+      "pt": "O cachorro é grande.",
+      "hints": [
+        { "chunk": "the", "id": "etTo9um3", "gloss_pt": "o/a (artigo definido)" },
+        { "chunk": "dog", "id": "YCymympU", "gloss_pt": "cachorro" },
+        { "chunk": "is", "id": "PwAGzapr", "gloss_pt": "é/está" },
+        { "chunk": "big", "id": "3k6uSPMJ", "gloss_pt": "grande" }
+      ]
+    },
+    {
+      "en": "The cat is small.",
+      "pt": "O gato é pequeno.",
+      "hints": [
+        { "chunk": "the", "id": "etTo9um3", "gloss_pt": "o/a (artigo definido)" },
+        { "chunk": "cat", "id": "Otd6WFAD", "gloss_pt": "gato" },
+        { "chunk": "is", "id": "PwAGzapr", "gloss_pt": "é/está" },
+        { "chunk": "small", "id": "oZg5kX5K", "gloss_pt": "pequeno" }
+      ]
+    },
+    {
+      "en": "The zebra is black and white.",
+      "pt": "A zebra é preta e branca.",
+      "hints": [
+        { "chunk": "the", "id": "etTo9um3", "gloss_pt": "o/a (artigo definido)" },
+        { "chunk": "zebra", "id": "WAxPWuva", "gloss_pt": "zebra" },
+        { "chunk": "is", "id": "PwAGzapr", "gloss_pt": "é/está" },
+        { "chunk": "black", "id": "U63SdotG", "gloss_pt": "preto/preta" },
+        { "chunk": "and", "id": "UZjqSZgq", "gloss_pt": "e" },
+        { "chunk": "white", "id": "FkwLnTuY", "gloss_pt": "branco/branca" }
+      ]
+    },
+    {
+      "en": "The tiger is black, white and orange.",
+      "pt": "O tigre é preto, branco e laranja.",
+      "hints": [
+        { "chunk": "the", "id": "etTo9um3", "gloss_pt": "o/a (artigo definido)" },
+        { "chunk": "tiger", "id": "vmCWcLu4", "gloss_pt": "tigre" },
+        { "chunk": "is", "id": "PwAGzapr", "gloss_pt": "é/está" },
+        { "chunk": "black", "id": "U63SdotG", "gloss_pt": "preto" },
+        { "chunk": "white", "id": "FkwLnTuY", "gloss_pt": "branco" },
+        { "chunk": "and", "id": "UZjqSZgq", "gloss_pt": "e" },
+        { "chunk": "orange", "id": "sqRT7GtG", "gloss_pt": "laranja (cor)" }
+      ]
+    }
+  ]
+}
